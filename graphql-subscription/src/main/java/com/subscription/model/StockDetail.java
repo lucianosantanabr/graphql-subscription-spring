@@ -1,0 +1,1 @@
+package com.subscription.model;import lombok.AllArgsConstructor;import lombok.Getter;import lombok.NoArgsConstructor;import lombok.Setter;@Getter@Setter@AllArgsConstructor@NoArgsConstructorpublic class StockDetail {  private String symbol;  private String name;  private long marketCap;}
